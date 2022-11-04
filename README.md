@@ -1,6 +1,6 @@
 # Waypoints Challenge
 
-This is a home assignment for recruitment candidates to [Springworks](https://www.springworks.se).
+This program which is writen with JavaScript by using Test Driving Development.
 
 ## Insurance data categorization
 
@@ -26,17 +26,8 @@ The data for Peter's *Waypoints* needs to be organized in these categories, to m
 
 Write a program that reads the data from `waypoints.json` and categorizes it as per above.
 
-**Preferred languages in solution**
 
-- Typescript
-- Javascript
-- Java
-- Swift
-- C#
 
-Submit the resulting source code for the solution, with tests to prove result, to a Github repository and share it with your contact person at Springworks.
 
-Good luck!
 
-:wave:
-# recruitment-waypoints-challenge
+
